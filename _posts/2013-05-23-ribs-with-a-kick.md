@@ -7,6 +7,11 @@ tags: [dinner, ribs, cornell]
 ---
 {% include JB/setup %}
 
+##Overview
+
+* Prep 30 mins, 2 hours in the oven, 20 minutes on the grill
+* Makes 5-6 servings
+
 ##Ingredients
 
 * 2 medium onions, chopped
@@ -40,3 +45,4 @@ tags: [dinner, ribs, cornell]
 * [original recipe](http://www.tasteofhome.com/Recipes/Ribs-with-a-Kick)
 * Instead of grilling in step 3, I cooked the ribs in the oven for ~2 hours at 300 F.  Basically I waited until they were falling apart.
 * We didn't have spicy ketchup, so we added hot pepper sauce (tabasco) to taste.
+* These were really good.

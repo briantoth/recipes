@@ -9,7 +9,10 @@ tags: [dinner, ribs, cornell]
 
 ##Overview
 
-* Prep 30 mins, 2 hours in the oven, 20 minutes on the grill
+* Cooking time
+    * Prep 30 mins
+    * 2 hours in the oven
+    * 20 minutes on the grill
 * Makes 5-6 servings
 
 ##Ingredients

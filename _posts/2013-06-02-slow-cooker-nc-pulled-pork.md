@@ -9,13 +9,14 @@ tags: [dinner, cornell]
 
 ##Overview
 
-* 30 minutes pre, 8 hours to cook (unattended)
+* Cooking time
+    * 30 minutes prep
+    * 8 hours to cook (unattended)
 
 ##Ingredients
 
 * 2 onions, quartered
-    * 2 tablespoons brown sugar
-    * test
+* 2 tablespoons brown sugar
 * 1 tablespoon smoked paprika
 * 2 teaspoons salt
 * 1/2 teaspoon ground black pepper

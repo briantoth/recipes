@@ -11,7 +11,9 @@ tags: []
 
 Creamy goat cheese and spicy cherry peppers combine for an easy and flavorful appetizer.
 
-*10 minutes to cook, 10 minutes to prep
+* Cooking time
+    * 10 minutes to prep
+    * 10 minutes to cook
 * makes 4 appetizer servings
 
 ##Ingredients

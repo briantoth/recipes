@@ -2,8 +2,8 @@
 layout: post
 title: "Goat cheese stuffed cherry peppers"
 description: ""
-category: 
-tags: []
+category: appetizer
+tags: [cheese, cornell]
 ---
 {% include JB/setup %}
 

@@ -12,6 +12,7 @@ tags: [dinner, cornell]
 * Cooking time
     * 30 minutes prep
     * 8 hours to cook (unattended)
+* Makes 6-8 servings
 
 ##Ingredients
 

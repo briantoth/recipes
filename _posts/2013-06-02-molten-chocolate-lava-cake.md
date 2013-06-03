@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Molten chocolate lava cake"
+title: "Molten Chocolate Lava Cake"
 description: ""
 category: dessert
 tags: [chocolate, cornell]

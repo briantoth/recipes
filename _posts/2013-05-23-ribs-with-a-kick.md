@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ribs with a kick"
+title: "Ribs with a Kick"
 description: ""
 category: pork
 tags: [dinner, ribs, cornell]

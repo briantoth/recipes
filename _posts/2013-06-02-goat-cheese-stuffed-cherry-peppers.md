@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Goat cheese stuffed cherry peppers"
+title: "Goat Cheese Stuffed Cherry Peppers"
 description: ""
 category: appetizer
 tags: [cheese, cornell]

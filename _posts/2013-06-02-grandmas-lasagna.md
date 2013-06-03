@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "'Grandma's' lasagna"
+title: "'Grandma's' Lasagna"
 description: ""
 category: italian
 tags: [sausage, cornell, beef]

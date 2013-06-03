@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jerk chicken"
+title: "Jerk Chicken"
 description: ""
 category: chicken
 tags: [spicy, caribbean, cornell]

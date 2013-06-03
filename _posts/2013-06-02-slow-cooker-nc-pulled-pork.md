@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Slow cooker NC pulled pork"
+title: "Slow Cooker NC Pulled Pork"
 description: ""
 category: pork
 tags: [dinner, cornell]

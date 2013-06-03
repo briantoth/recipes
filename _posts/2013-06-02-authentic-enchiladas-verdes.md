@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Authentic enchiladas verdes"
+title: "Authentic Enchiladas Verdes"
 description: ""
 category: Chicken
 tags: [mexican, spicy, cornell]

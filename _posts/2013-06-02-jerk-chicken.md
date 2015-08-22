@@ -49,7 +49,5 @@ tags: [spicy, caribbean, cornell]
     Preheat oven to 350°F. Place chicken halves in a rimmed baking pan, skin side up. Roast until chicken halves are cooked through, about 50-60 minutes. The chicken is done when the juices run clear (not pink) when a knife tip is inserted into both the chicken breast and thigh, about 165-170°F for the breast and 180-185°F for the thigh. Transfer chicken to platter. Tent loosely with foil to keep warm and let stand 15 minutes.
 
 Cut chicken into pieces. Serve with black beans and rice.
-            Pour oil in a frying pan, and allow to get very hot. Slightly fry tortillas one by one in hot oil, setting each on a paper towel afterwards to soak some of the oil. Finally, dip slightly fried tortillas in low-boiling green salsa, until tortillas become soft again. Place on plates, 3 per person.
-                Fill or top tortillas with shredded chicken, then extra green sauce. Top with crumbled cheese, chopped onion, and chopped cilantro.
 
 * [original recipe](http://www.simplyrecipes.com/recipes/jerk_chicken/)
